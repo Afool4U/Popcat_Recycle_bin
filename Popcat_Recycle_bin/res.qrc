@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.ico</file>
+        <file>cat_empty.dll</file>
+        <file>cat_full.dll</file>
+    </qresource>
+</RCC>
